@@ -28,6 +28,7 @@
 ## 파일
 - **[settings/차원/](settings/차원/README.md): 차원별 전면 상세 설계 (8개 차원 설계 완료) — 이 폴더 파일이 설정의 정본**
 - **[settings/플롯_구조.md](settings/플롯_구조.md): 5부 플롯 큰 구조와 운영 규칙 (확정)**
+- **[settings/RP_운용.md](settings/RP_운용.md): 소설·RP 진행 규칙 (확정, 옛 03 대체)**
 - [DECISIONS.md](DECISIONS.md): 승인된 결정 이력
 - [settings/01_중앙차원_세계관.md](settings/01_중앙차원_세계관.md): 핵심 세계관 · 확정/제안 구분
 - [settings/02_국가_세력.md](settings/02_국가_세력.md): 국가명과 주요 세력의 최소 목록
